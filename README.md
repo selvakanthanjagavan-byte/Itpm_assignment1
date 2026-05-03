@@ -4,7 +4,7 @@ pip install playwright openpyxl
 playwright install
 
 
-then ruuning steps
+Then Running steps
 "python image_preview_test.py --url "https://www.pixelssuite.com/crop-image" --slow-mo-ms 4000"
 
 
